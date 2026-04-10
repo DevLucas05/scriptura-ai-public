@@ -14,7 +14,7 @@ Foi projetado de ponta a ponta com foco em **arquitetura limpa**, **prompt engin
 
 ## 📸 Demonstração Visual
 
-> **Nota para o Recrutador:** Abaixo estão as telas principais do sistema que demonstram tanto a complexidade do Back-end quanto o acabamento premium do Front-end.
+> **Nota:** Abaixo estão as telas principais do sistema que demonstram tanto a complexidade do Back-end quanto o acabamento premium do Front-end.
 
 ### 1. Tela Inicial e Formulário de Geração
 
