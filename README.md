@@ -79,7 +79,7 @@ Cada estudo gerado segue **9 seções obrigatórias**, garantindo consistência 
 2. Texto Base (versículo transcrito por extenso)
 3. Introdução com gancho provocativo
 4. Definição Prática do conceito
-5. Desenvolvimento (A Mentira → O Perigo → Base Bíblica → Desafio)
+5. Desenvolvimento 
 6. Por Que Isso Importa?
 7. Conclusão e Aplicação
 8. Oração (específica ao tema)
