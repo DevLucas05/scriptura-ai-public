@@ -166,7 +166,7 @@ Desenvolvedor Full-Stack
 O Projeto Scriptura AI foi feito não apenas como uma ideia de negócio, mas como um projeto para ajudar a **democratizar o acesso a conteúdo bíblico de qualidade** — levando estudos profissionais para líderes, professores e pregadores de todo o Brasil.
 
 - 💼 GitHub: [github.com/DevLucas05](https://github.com/DevLucas05)
-- 📧 E-mail: [Contate-me] (lucasnascimento05.dev@gmail.com)
+- 📧 E-mail: [Contate-me](lucasnascimento05.dev@gmail.com)
 
 ---
 
